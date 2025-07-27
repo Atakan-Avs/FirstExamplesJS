@@ -155,4 +155,3 @@ console.log(createWelcomeMessage(userName)); // çıktı: "Merhaba Ali, JavaScri
 
 console.log("Kullanıcı ismi: ", userName); // çıktı: "Ali"
 console.log("Hoş geldin mesajı: ", createWelcomeMessage(userName)); // çıktı: "Merhaba Ali, JavaScript öğrenmeye hoş geldin!" */
-
